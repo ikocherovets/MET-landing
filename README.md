@@ -1,6 +1,10 @@
 # 🏛️ MET landing page
 This project is a responsive landing page designed for a museum, offering a visually engaging and well-structured experience across all devices. Built with modern web design techniques, this application ensures a seamless user experience whether viewed on mobile, tablet, or desktop.
 
+### 🌐 Demo
+
+Check out the live demo [here](https://ikocherovets.github.io/MET-landing/).
+
 ### 🚀 Main Features
 
 - **Responsive Design**: Optimized for all devices, ensuring a seamless experience whether on mobile, tablet, or desktop.
@@ -33,13 +37,5 @@ Make sure you have Node.js and npm installed on your machine.
 
     Open the index.html file with a local web server, or simply open the file in your browser.
    
-### 🛠️ Available Scripts
-
-- **Deploy**: Deploys the application to GitHub Pages.
-- **SCSS Preprocessor**: Write your styles using modern SCSS language.
-
-### 🌐 Demo
-
-Check out the live demo [here](https://ikocherovets.github.io/MET-landing/).
 
    
